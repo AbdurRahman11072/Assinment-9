@@ -1,0 +1,81 @@
+[
+    {
+        "id":1,
+        "title":"Concerts and Music Festivals",
+        "Eventimg":"https://i.ibb.co/J2m9TRc/concert.webp",
+        "date":"10-10-2023",
+        "time":"8:00pm",
+        "location":"Dhaka,Gulshan",
+        "discription":"Welcome to the Symphony of Sound: Your Premier Destination for Concerts and Music Festivals.Immerse yourself in the world of music where melodies soar, beats reverberate, and the joy of live performances comes to life. Our Concerts and Music Festivals website invites you to embark on an unforgettable journey through the harmonious realm of music. Get ready to revel in the magic of live concerts, discover the latest music festivals, and uncover the stories behind your favorite artists.Explore a vast array of musical genres, from classical to contemporary, rock to rap, jazz to EDM. Our curated selection promises an eclectic auditory experience for music enthusiasts of all tastes.Meet the musical maestros, the virtuoso vocalists, and the talented bands who create the soundtrack of our lives. Dive into their artistic journeys, inspirations, and the magic that happens on and off the stage.Experience the thrill of music festivals, from iconic gatherings to hidden gems. Dive into the vibrant atmospheres, discover festival lineups, and plan your next unforgettable music adventure.Get exclusive access with our backstage insights. Explore behind-the-scenes interviews, tour diaries, and artist interactions that provide an intimate look into the world of music-making.",
+        "price":250,
+        "organizer": "Golobal Ecosystem",
+        "remainigticket":310,
+        "totalticket":500
+        
+    },
+    {
+        "id":2,
+        "title":"Theater and Performing Arts",
+        "Eventimg":"https://i.ibb.co/k2PsL57/Theater-Event.jpg",
+        "date":"01-11-2023",
+        "time":"9:00pm",
+        "location":"Barisal,BM Collage",
+        "discription":"Welcome to a digital stage like no other—a portal to the extraordinary, a symphony of creativity, and a realm where dreams take flight. Our Theater and Performing Arts website is your doorway to a world of unparalleled wonder and amazement. Step into the limelight, where the captivating world of live performance awaits your exploration. 1. Journey through an exquisite collection of upcoming performances that will transport you to realms beyond imagination. From timeless classics to avant-garde masterpieces, these spectacles will awaken your senses and ignite your passion for the arts.               2. Immerse yourself in the stories behind the stage. Uncover the hearts and minds of the brilliant artists who craft every moment of magic. Peer into their creative processes, aspirations, and boundless dedication to their craft. 3.Dive into incisive reviews and critiques that offer profound insights into the mesmerizing world of theater and performing arts. Gain fresh perspectives, ignite discussions, and make informed choices on your journey through the arts.       ",
+        "price":350,
+        "organizer": "Golobal Ecosystem",
+        "remainigticket":80,
+        "totalticket":450
+    },
+    {
+        "id":3,
+        "title":"FIFA Sports Events 2023",
+        "Eventimg":"https://i.ibb.co/3FkPfdy/Sport-Event.jpg",
+        "date":"22-12-2023",
+        "time":"10:00pm",
+        "location":"Dhaka,Jumuna Park",
+        "discription":"Experience the Thrill: Your Ultimate Sports Events Destination. Welcome to a world where the spirit of competition soars, the roar of the crowd electrifies, and every moment is an adrenaline rush. Our Sports Events website is your portal to the heart-pounding, edge-of-your-seat world of sports. Immerse yourself in the excitement, the victories, and the moments that define athletic greatness.Explore an extensive calendar of sporting events that span the globe. From the grandeur of international tournaments to the intimate charm of local competitions, we curate an eclectic mix to satisfy every sports enthusiast.Get to know the heroes of the field, court, and arena. Delve into the stories of the athletes who inspire us with their dedication, talent, and unwavering commitment to their sport.Prepare for the match with expert analysis, team statistics, and insider tips. Whether you're a seasoned fan or a newcomer, our comprehensive coverage ensures you're in the know.",
+        "price":500,
+        "organizer": "CricketBoard BD",
+        "remainigticket":70,
+        "totalticket":1000
+    },
+    {
+        "id":4,
+        "title":"Comedy Shows With Dav",
+        "Eventimg":"https://i.ibb.co/Sr3RCy9/comedy.jpg",
+        "date":"25-10-2023",
+        "time":"8:00pm",
+        "location":"Chittagong,Kornofuly River",
+        "discription":"Welcome to Laughter's Haven: Your Ultimate Comedy Shows DestinationStep into a world where laughter knows no bounds and joy is the currency of the day. Our Comedy Shows website invites you to immerse yourself in the delightful universe of humor and wit. Prepare for an unparalleled journey through rib-tickling performances, witty stand-up acts, and comedic masterpieces that will leave you in stitches and begging for more.Discover an extensive repertoire of comedy gold, featuring renowned comedians and emerging talents from around the globe. Our carefully curated lineup guarantees a laughter-filled experience for comedy enthusiasts of all tastes.Get to know the maestros of mirth, the kings and queens of comedy, and the storytellers who weave magic with their words. Explore their unique styles, hilarious anecdotes, and the journey that led them to the forefront of the comedy scene.Prepare for a night of endless giggles with our insider insights. Dive into the world of comedy with backstage stories, blooper reels, and behind-the-scenes glimpses that add an extra layer of hilarity to your viewing experience. ",
+        "price":250,
+        "organizer": "BD Entertainment",
+        "remainigticket":55,
+        "totalticket":250
+    },
+    {
+        "id":5,
+        "title":"Film Screenings and Premieres",
+        "Eventimg":"https://i.ibb.co/b2WxJ0R/Filmscreen.jpg",
+        "date":"15-10-2023",
+        "time":"6:30pm",
+        "location":"Barisal,Brisal University",
+        "discription":"Welcome to Silver Screen Magic: Your Premier Destination for Film Screenings and Premieres.Step into the enchanting world of cinematic wonder and storytelling excellence. Our Film Screenings and Premieres website invites you to embark on an unforgettable journey through the captivating realm of film. Prepare to be transported to the epicenter of movie magic, where you'll gain access to exclusive screenings, red carpet premieres, and behind-the-scenes insights that celebrate the art of filmmaking in all its gloryExplore an expansive showcase of the latest blockbuster releases, independent gems, and timeless classics. Our carefully curated selection promises an unforgettable viewing experience for cinephiles of all tastes.Meet the visionary directors, talented actors, and the creative minds behind the camera who bring cinematic dreams to life. Dive into their artistic journeys, inspirations, and the magic that happens on and off the set.Experience the glitz and glamour of red carpet premieres from the comfort of your home. Gain VIP access to exclusive events, celebrity interviews, and first looks at the most highly anticipated films of the year.",
+        "price":200,
+        "organizer": "Tecno,Sumsung,Xiaomi",
+        "remainigticket":210,
+        "totalticket":500
+    },
+    {
+        "id":6,
+        "title":"E-sports World Tournament",
+        "Eventimg":"https://i.ibb.co/0q1ZYKw/E-sports.webp",
+        "date":"05-12-2023",
+        "time":"8:30pm",
+        "location":"Dhaka, Uttara",
+        "discription":"Welcome to the World of E-sports Excellence: Your Premier Destination for Competitive Gaming.Dive into the thrilling world of competitive gaming where strategy, skill, and passion collide. Our E-sports website invites you to explore the epicenter of digital sportsmanship and adrenaline-pumping action. Prepare to be captivated by the electrifying arena of E-sports, where players become legends and spectators become fervent fans, all united by a shared love for gaming.Witness the clash of titans in our exhilarating E-sports showdowns. From heart-pounding battles in popular titles to intense esports tournaments, we bring you the action, the drama, and the triumphs of competitive gaming.Discover the world's top gamers and rising stars. Delve into their gaming journeys, strategies, and the dedication that propels them to the pinnacle of Esports success.Experience the thrill of live Esports tournaments with our real-time coverage. Catch every critical moment, celebrate every victory, and feel the tension of every epic showdown as it unfoldsGo behind the scenes with our insider insights. Gain access to exclusive interviews, player perspectives, and expert analysis that provide a deeper understanding of the strategies, teamwork, and dedication that define Esports excellence.",
+        "price":300,
+        "organizer": "Mobile Legend BD",
+        "remainigticket":125,
+        "totalticket":1000
+    }
+]
